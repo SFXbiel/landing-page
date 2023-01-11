@@ -36,4 +36,8 @@
     footer{
         text-align: center;
     }
+    aside{
+        margin-top: -1px;
+        margin-bottom: 70px;
+    }
 }
